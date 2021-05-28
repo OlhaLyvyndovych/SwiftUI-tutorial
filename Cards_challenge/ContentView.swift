@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    
+    //A little change for GH - to add this comment
     @State private var playerCard = "card5"
     @State private var cpuCard = "card9"
     @State private var playerScore = 0
